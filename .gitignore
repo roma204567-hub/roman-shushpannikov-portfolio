@@ -1,7 +1,11 @@
 node_modules/
 dist/
+.vercel/
 Материалы/
 .env
 .env.*
 !.env.example
 npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
